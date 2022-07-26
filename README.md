@@ -1,3 +1,4 @@
 Pagina flex-box
 
-Ponto em pratica os conhecimentos em posicionamento CSS.
+Ponto em pratica os conhecimentos adquiridos no curso posicionando elementos flexbox.
+
